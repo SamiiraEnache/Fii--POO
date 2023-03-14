@@ -1,0 +1,7 @@
+﻿  Sort.cpp
+C:\Users\Samira\source\repos\POO4\POO4\Sort.cpp(59,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samira\source\repos\POO4\POO4\Sort.cpp(82,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samira\source\repos\POO4\POO4\Sort.cpp(108,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  POO4.vcxproj -> C:\Users\Samira\source\repos\POO4\x64\Debug\POO4.exe
